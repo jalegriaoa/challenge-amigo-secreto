@@ -19,5 +19,7 @@ JavaScript: Logica y funcionalidad.
 4. El registro del amigo elegido al azar se mostrará en pantalla.
 
 # Referencia de la aplicación
+![img_app](https://github.com/user-attachments/assets/a757993a-cf55-4818-8c0a-d7bb9498728c)
+
 
 # Futuras Mejoras
