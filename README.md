@@ -1,5 +1,5 @@
 # Challenge-Amigo-Secreto
-La aplicación web permite ingresar registros que elaboran una lista de amigos (nombres) para luego escoger un registro como "Amigo Secreto" de manera aleatoria. 
+La aplicación web permite ingresar registros (nombres) que elaboran una lista de amigos para luego escoger un registro como "Amigo Secreto" de manera aleatoria. 
 
 ## Características Principales
 - Agregar nombres a una lista de amigos.
