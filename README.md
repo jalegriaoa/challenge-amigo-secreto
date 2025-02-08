@@ -18,7 +18,7 @@ La aplicación web permite ingresar registros (nombres) que elaboran una lista d
 3. Una vez se hayan ingresado todos los nombres, hacer clic en el boton "Sortear Amigo".
 4. El registro del amigo elegido al azar se mostrará en pantalla.
 
-
+<br><br>
 ## Referencia de la aplicación
 ![img_app](https://github.com/user-attachments/assets/a757993a-cf55-4818-8c0a-d7bb9498728c)
 
