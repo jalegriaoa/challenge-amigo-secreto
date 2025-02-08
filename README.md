@@ -21,5 +21,3 @@ La aplicación web permite ingresar registros (nombres) que elaboran una lista d
 ## Referencia de la aplicación
 ![img_app](https://github.com/user-attachments/assets/a757993a-cf55-4818-8c0a-d7bb9498728c)
 
-
-### Futuras Mejoras
