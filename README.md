@@ -8,9 +8,9 @@ La aplicación web permite ingresar registros (nombres) que elaboran una lista d
 - Mostrar el nombre del amigo seleccionado al azar.
 
 ## Tecnologias Usadas
-- HTML5: Estructuctura de la aplicacion.
-- CSS3: Maquetado de la interfaz.
-- JavaScript: Logica y funcionalidad.
+- ![img_app](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) : Estructuctura de la aplicacion.
+- ![img_app](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) : Maquetado de la interfaz.
+- ![img_app](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) : Logica y funcionalidad.
 
 ## ¿Como funciona?
 1. Ingresar el nombre del amigo en el campo de texto.
